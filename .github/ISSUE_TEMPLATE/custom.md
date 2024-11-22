@@ -21,8 +21,4 @@ body:
   - type: textarea
     id: problem-description
     attributes:
-      label: Problem Description      
-
----
-
-
+      label: Problem Description
